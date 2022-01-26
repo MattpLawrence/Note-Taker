@@ -8,19 +8,19 @@ A simple application using Express.js and Node.js to take and save notes.
 
 ### -Motivation:
 
-The motivation behind this project was to make a simple way to generate an html page to display multiple team members all in one place
+The motivation behind this project was to make a simple application that would let you make, save, and delete notes.
 
 ### -Why This Was Built:
 
-I built this project because I wanted to automate the process of making team member cards in html.
+I built this project because I wanted to automate the process of taking notes on my computer.
 
 ### -Problems Solved:
 
-Using Node.js to create a new file, and write the correct contents to it. Using TDD method I set up the parameters for a successful project. Using terminal responses I was able to create new objects using classes and subclasses to give all of the correct attributes.
+Using Node.js and Express.js I was able to setup a server and get ,post, delete routes to connect the front end to the back end of the application. This allowed the server to show the front end while also saving or delteing notes to the back end.
 
 ### -What was Learned:
 
-I learned how to use NPM to install and use a new package called jest to set up and execute tests. Additionally I learned how classes and subclasses relate, and how to use them to effectively create new objects.
+I learned how to use different types of routes to accomplish different tasks in connecting the front end to the back end of an application.
 
 ## Table of Contents:
 
