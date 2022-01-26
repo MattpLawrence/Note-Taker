@@ -31,7 +31,7 @@ I learned how to use different types of routes to accomplish different tasks in 
 
 ## Installation Instructions: <a name="install"></a>
 
-To install this repository go to [MattpLawrence/Team-Profile-Generator](https://github.com/MattpLawrence/Team-Profile-Generator). From there clone the repository to your local computer. Make sure to install [Node.js](https://nodejs.org/en/download/) in order to run the application.
+To install this repository go to [MattpLawrence/Team-Profile-Generator](https://github.com/MattpLawrence/Note-Taker). From there clone the repository to your local computer. Make sure to install [Node.js](https://nodejs.org/en/download/) in order to run the application.
 
 ## How to Use: <a name="usage"></a>
 
